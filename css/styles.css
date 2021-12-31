@@ -10,18 +10,18 @@ body {
   width: 100%;
 }
 
-.east {
+img[data-direction="east"] {
   transform: rotate(0deg);
 }
 
-.north {
+img[data-direction="north"] {
   transform: rotate(270deg);
 }
 
-.south {
+img[data-direction="south"] {
   transform: rotate(90deg);
 }
 
-.west {
+img[data-direction="west"] {
   transform: rotate(180deg);
 }
