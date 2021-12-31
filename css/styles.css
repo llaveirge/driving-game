@@ -1,3 +1,12 @@
 body {
   margin: 0 auto;
+  background-color: rgb(131, 211, 131);
+}
+
+.img-container {
+  width: 200px;
+}
+
+.car {
+  width: 100%;
 }
